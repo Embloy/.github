@@ -18,4 +18,4 @@ Interested in a career at Embloy? Check out our opportunities on [Embloy Careers
 |---|---|
 | Co-Founder | Co-Founder |
 
-👋  [@Embloy](https://linkedIn.com/in/Embloy)
+👋  [@Embloy](https://linkedIn.com/company/embloy)
