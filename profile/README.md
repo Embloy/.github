@@ -4,6 +4,11 @@ Embloy is what's happening and what people are talking about right now.
 It's where opportunities emerge and communities converge.
 And it's all powered by open source, made by a team of students.
 
+## Join the team
+
+__Join the Embloy team__ and help us shape the future of our product. We offer a supportive work environment, exciting challenges, and opportunities for growth. [Contact us](https://embloy.com/en/contribute) now and let's make great things happen together.
+
+
 ## Participating in the community
 
 🫂 We aim to create a welcoming and inclusive community. Please note that Embloy's open source projects are governed by our [code of conduct](https://github.com/embloy/.github/blob/main/code-of-conduct.md).
