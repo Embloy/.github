@@ -1,4 +1,4 @@
-![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/embloy-readme.png)
+![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/githubbanner.png)
 
 Embloy is what's happening and what people are talking about right now.
 It's where opportunities emerge and communities converge.
