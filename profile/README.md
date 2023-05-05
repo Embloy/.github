@@ -11,16 +11,16 @@ __Join the Embloy team__ and help us shape the future of our product. We offer a
 
 ## Participating in the community
 
-🫂 We aim to create a welcoming and inclusive community. Please note that Embloy's open source projects are governed by our [code of conduct](https://github.com/embloy/.github/blob/main/code-of-conduct.md).
+🫂 We aim to create a welcoming community. Please note that Embloy's open source projects are governed by our [code of conduct](https://github.com/embloy/.github/blob/main/code-of-conduct.md).
 
 ## Get in touch!
 
-Learn more about what we're doing in open source at [Embloy Opensource](https://embloy.com/en).
-Interested in a career at Embloy? Check out our opportunities on [Embloy Careers](https://embloy.com/en/contribute)!
+Learn more about what we're doing in [open source](https://embloy.com/en).
+Interested in contributing to Embloy? Check out our [opportunities](https://embloy.com/en/contribution)!
 
 ## About us
 | <a href="https://github.com/carlobortolan"><img src="https://avatars.githubusercontent.com/u/106114526?v=4?s=100" width="100px;" alt=""/><br />@carlobortolan</a> | <a href="https://github.com/github4touchdouble"><img src="https://avatars.githubusercontent.com/u/59091490?v=4?s=100" width="100px;" alt=""/><br />@github4touchdouble</a> |
 |---|---|
-| Co-Founder | Co-Founder |
+| Head Developer | Head Developer |
 
 👋  [@Embloy](https://linkedIn.com/company/embloy)
