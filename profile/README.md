@@ -6,7 +6,7 @@ And it's all powered by open source, made by a team of students.
 
 ## Join the team
 
-__Join the Embloy team__ and help us shape the future of our product. We offer a supportive work environment, exciting challenges, and opportunities for growth. [Contact us](https://embloy.com/en/contribute) now and let's make great things happen together.
+__Join the Embloy team__ and help us shape the future of our product. We offer a supportive work environment, exciting challenges, and opportunities for growth. [Contact us](https://embloy.com/en/contribution) now and let's make great things happen together.
 
 
 ## Participating in the community
