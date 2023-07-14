@@ -1,8 +1,6 @@
 ![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/linkedinbanner.png)
 
-Embloy is what's happening and what people are talking about right now.
-It's where opportunities emerge and communities converge.
-And it's all powered by open source, made by a team of students.
+This is the repository containing all the open sourced software code of the Embloy project. 
 
 ## Join the team
 
