@@ -1,5 +1,5 @@
-![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/linkedinbanner.png)
-
+<!--![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/linkedinbanner.png)-->
+![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/githubbanner.png)
 This is the official repository containing all the open sourced software code of the Embloy project. 
 
 ## Join the team
