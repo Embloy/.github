@@ -3,10 +3,13 @@
 
 This is the official repository containing all the open sourced software code of the Embloy project. 
 
-## Join the team
+We truly believe in the power of open-source collaboration to drive innovation and foster a thriving community of developers. That's why we've made nearly our entiry code-stack open source, inviting anyone to contribute, learn, and build upon our collective knowledge.
 
-__Join the Embloy team__ and help us shape the future of our product. We offer a supportive work environment, exciting challenges, and opportunities for growth. [Contact us](https://about.embloy.com/en/contribution) now and let's make great things happen together.
+For more information on this topic visit [our priorities.](https://about.embloy.com/en/resources/our-priorities/)
 
+## Contribute
+
+We invite you to join us in this journey of open-source exploration. Browse our repositories, contribute your ideas, and become part of a community that's brain-boosting HR.
 
 ## Participating in the community
 
