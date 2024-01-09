@@ -1,7 +1,7 @@
 <!--![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/linkedinbanner.png)-->
 ![Colorful Embloy logo in front of a textured horizontal banner](https://raw.githubusercontent.com/Embloy/.github/main/profile/githubbanner.png)
 
-This is the Embloy's official open-source software code repository. 
+This is Embloy's official open-source software code repository. 
 
 Embloy is a Universal Application Gateway that allows everyone to apply for any job on any website using one single account. We eliminate the hassle of managing a wide job search across multiple platforms and offer a fast and easy way to discover new job opportunities, whether it's someones's first or just the next step in their professional journey.
 
