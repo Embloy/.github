@@ -19,7 +19,7 @@ Join us on a journey exploring brain-boosted HR solutions. Browse our repositori
 Learn more about what we're doing in [open source](https://about.embloy.com).
 Interested in contributing to Embloy? Explore all current [opportunities](https://about.embloy.com/en/contribution) on our website!
 
-We aim to create a welcoming community. Please note that Embloy's open source projects are governed by our [code of conduct](https://github.com/embloy/.github/blob/main/code-of-conduct.md)
+We aim to create a welcoming community. Please note that Embloy's open source projects are governed by our [code of conduct](https://github.com/embloy/.github/blob/main/code-of-conduct.md).
 
 
 ## About us
