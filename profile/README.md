@@ -5,11 +5,11 @@ This is the Embloy's official open-source software code repository.
 
 Embloy is a Universal Application Gateway that allows everyone to apply for any job on any website using one single account. We eliminate the hassle of managing a wide job search across multiple platforms and offer a fast and easy way to discover new job opportunities, whether it's someones's first or just the next step in their professional journey.
 
-At Embloy, we support various technologies through the development and maintenance of our SDKs and REST API endpoints. For more information on this topic visit [Embloy's Developer Docs](https://developer.embloy.com/).
+At Embloy, we support various technologies through the development and maintenance of our SDKs and REST API endpoints. For more information on this topic visit our [ Developer Docs](https://developer.embloy.com/).
 
 ## Samples
 - Our SDKs can be found in the repositories of this GitHub organization.
-- Sample implmentations can be found in the [Examples repository](https://github.com/embloy/embloy-examples#embloy-examples) of this GitHub organization & supporting detailed explanations can be found in the [Tutorial Section](https://developer.embloy.com/) of Embloy's Developer Docs.
+- Sample implmentations can be found in the [Examples repository](https://github.com/embloy/embloy-examples#embloy-examples) of this GitHub organization & supporting detailed explanations can be found in the [Tutorial Section](https://developer.embloy.com/) of our Developer Docs.
 
 We invite you to provide [feedback](https://about.embloy.com/en/contact/) on our developer resources.
 
