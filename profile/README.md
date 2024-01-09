@@ -14,7 +14,7 @@ At Embloy, we support various technologies through the development and maintenan
 We invite you to provide [feedback](https://about.embloy.com/en/contact/) on our developer resources.
 
 ## Participating in the community
-Join us on a journey exploring brain-boosted HR solutions. Browse our repositories, contribute your ideas, and stay up to date with the latest news from the Embloy team!
+Join us on a journey towards exploring brain-boosted HR solutions. Browse our repositories, contribute your ideas, and stay up to date with the latest news from the Embloy team!
 ### Get in touch!
 Learn more about what we're doing in [open source](https://about.embloy.com).
 Interested in contributing to Embloy? Explore all current [opportunities](https://about.embloy.com/en/contribution) on our website!
