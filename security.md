@@ -1,2 +1,2 @@
 ### Security Issues?
-Please report sensitive security issues via Embloy's bug-bounty program (https://embloy.com/security) rather than GitHub.
+Please report sensitive security issues via Embloy's bug-bounty program by writing us an email to (mailto:feedback@embloy.com) rather than GitHub.
