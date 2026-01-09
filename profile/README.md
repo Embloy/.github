@@ -13,14 +13,6 @@ At Embloy, we support various technologies through the development and maintenan
 
 We invite you to provide [feedback](https://about.embloy.com/en/contact/) on our developer resources.
 
-## Participating in the community
-Join us on a journey towards exploring brain-boosted HR solutions. Browse our repositories, contribute your ideas, and stay up to date with the latest news from the Embloy team!
-### Get in touch!
-Learn more about what we're doing in [open source](https://about.embloy.com).
-Interested in contributing to Embloy? Explore all current [opportunities](https://about.embloy.com/en/contribution) on our website!
-
-We aim to create a welcoming community. Please note that Embloy's open source projects are governed by our [code of conduct](https://github.com/embloy/.github/blob/main/code-of-conduct.md).
-
 
 ## About us
 | <a href="https://github.com/carlobortolan"><img src="https://avatars.githubusercontent.com/u/106114526?v=4?s=100" width="100px;" alt=""/><br />@carlobortolan</a> | <a href="https://github.com/github4touchdouble"><img src="https://avatars.githubusercontent.com/u/59091490?v=4?s=100" width="100px;" alt=""/><br />@github4touchdouble</a> |
