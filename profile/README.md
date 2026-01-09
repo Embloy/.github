@@ -17,6 +17,5 @@ We invite you to provide [feedback](https://about.embloy.com/en/contact/) on our
 ## About us
 | <a href="https://github.com/carlobortolan"><img src="https://avatars.githubusercontent.com/u/106114526?v=4?s=100" width="100px;" alt=""/><br />@carlobortolan</a> | <a href="https://github.com/github4touchdouble"><img src="https://avatars.githubusercontent.com/u/59091490?v=4?s=100" width="100px;" alt=""/><br />@github4touchdouble</a> |
 |---|---|
-| Head Developer | Product Head |
 
 👋  [@Embloy](https://linkedIn.com/company/embloy)
